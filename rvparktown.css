@@ -79,7 +79,7 @@ header p {
 
 @media screen and (max-width: 500px) {
   .site-nav li {
-    width: 33%;
+    width: 90%;
   }
 }
 
