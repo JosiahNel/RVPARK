@@ -125,12 +125,7 @@ header p {
   color: #000;
 }
 
-@media screen and (max-width: 480px) {
-  .site-nav2 li {
-    width: 100%;
-    
-  }
-}
+
 
 /* End Site Navigation2 */
 
