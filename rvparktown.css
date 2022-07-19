@@ -77,9 +77,9 @@ header p {
   background-color: #e5e9dc;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
   .site-nav li {
-    width: 50%;
+    width: 33%;
   }
 }
 
@@ -114,11 +114,8 @@ header p {
   background-color: #e5e9dc;
 }
 
-@media screen and (max-width: 480px) {
-  .site-nav li {
-    width: 50%;
-  }
-}
+
+@media screen and (max-width: 480px) { .site-nav2 li { width: 70%; } }
 
 /* End Site Navigation2 */
 
