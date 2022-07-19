@@ -76,9 +76,9 @@ header p {
   background-color: #e5e9dc;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
   .site-nav li {
-    width: 50%;
+    width: 33%;
   }
 }
 
@@ -224,6 +224,7 @@ table th {
   }
   .testimonial {
     display: block;
+    padding: 30px;
   }
 }
 
